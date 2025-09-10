@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ibrahim El Khalil</h1>
 <h3 align="center">My work focuses on developing intelligent and secure IoT systems using AI, machine learning, and computer vision. I have experience with deep learning models (CNNs, U-Net), image processing, anomaly detection, and exposure fusion techniques. Skilled in Python, TensorFlow, PyTorch, FastAPI, and OpenCV, I enjoy designing practical solutions that connect research with real-world applications. I am particularly interested in AI for IoT security, privacy-preserving methods, and federated learning, and I aim to pursue further research in these areas.</h3>
 
+- 📫 How to reach me **keciribrahim@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-khalil-ba935b268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-khalil-ba935b268/" height="30" width="40" /></a>
