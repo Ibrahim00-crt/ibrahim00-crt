@@ -1,13 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ibrahim El Khalil</h1>
-<h3 align="center">My work focuses on developing intelligent and secure IoT systems using AI, machine learning, and computer vision. I have experience with deep learning models (CNNs, U-Net), image processing, anomaly detection, and exposure fusion techniques. Skilled in Python, TensorFlow, PyTorch, FastAPI, and OpenCV, I enjoy designing practical solutions that connect research with real-world applications. I am particularly interested in AI for IoT security, privacy-preserving methods, and federated learning, and I aim to pursue further research in these areas.</h3>
-
-- 📫 How to reach me **keciribrahim@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-khalil-ba935b268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-khalil-ba935b268/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ibrahim.khalil.297133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ibrahim.khalil.297133" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"
+       alt="Hi, my name is Kecir Ibrahim El Khalil"
+       width="600" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibrahim00-crt&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>👋 Hi, my name is Kecir Ibrahim El Khalil</h1>
+    </summary>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=650&lines=AI+Engineer;Interested+in+Cybersecurity+and+IoT;Working+with+Artificial+Intelligence+and+Machine+Learning;Building+Secure+and+Intelligent+Systems)](https://git.io/typing-svg)
+</div>
+
+---
+
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://github.com/Ibrahim00-crt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-khalil-ba935b268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="mailto:keciribrahim@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+My work focuses on developing **intelligent and secure IoT systems** using **AI, Machine Learning, and Computer Vision**.  
+I have experience with deep learning models (**CNNs, U-Net**), image processing, anomaly detection, and exposure fusion techniques.
+
+Skilled in **Python, TensorFlow, PyTorch, FastAPI, and OpenCV**, I enjoy designing practical solutions that connect research with real-world applications.
+
+I am particularly interested in:
+- AI for IoT security  
+- Privacy-preserving methods  
+- Federated learning  
+
+And I aim to pursue further research in these areas.
+
+---
+
+## 🧰 Skills
+
+<div align="center">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,python,tensorflow,pytorch,opencv,react,flutter,dart,android,linux,mongodb,sql,flask,django,html,css,java,c)](https://github.com/Jurredr/github-widgetbox)
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim00-crt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+---
+
+## 📌 GitHub Profile Summary Cards
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim00-crt&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim00-crt&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim00-crt&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibrahim00-crt&theme=default&utcOffset=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim00-crt&theme=default)
+
+</div>
+
+---
+
+## 🏆 Advanced Stats & Trophies
+
+<div align="center">
+  <a href="https://stats.hyo.dev/stats/Ibrahim00-crt">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Ibrahim00-crt" width="600" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stats.hyo.dev/stats/Ibrahim00-crt">
+    <img src="https://stats.hyo.dev/api/github-trophies?login=Ibrahim00-crt" width="600" />
+  </a>
+</div>
