@@ -39,7 +39,7 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=mongodb,mysql,python,java,html,css,fastapi,flask,django,flutter,tensorflow,Git,vscode&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=mongodb,mysql,python,java,html,css,django,flutter,tensorflow,Git,vscode&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
 ---
