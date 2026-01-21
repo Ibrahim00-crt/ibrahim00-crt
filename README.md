@@ -23,12 +23,12 @@
   </a>
 </p>
 
-**<h3 align="left">
+<h3 align="left">
 My work focuses on developing intelligent and secure IoT systems using AI, machine learning, and computer vision. I have experience with deep learning models (CNNs, U-Net), image processing, anomaly detection, and exposure fusion techniques. Skilled in Python, TensorFlow, PyTorch, FastAPI, and OpenCV, I enjoy designing practical solutions that connect research with real-world applications. I am particularly interested in AI for IoT security, privacy-preserving methods, and federated learning, and I aim to pursue further research in these areas.
-</h3>**
+</h3>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&color=36BCF7&lines=AI+Engineer;Learning+Mobile+Development+%26+Networking;Interested+in+Cybersecurity;Working+with+AI+%26+ML;Passionate+about+Tech+%26+Innovation;Building+Secure+Intelligent+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&color=36BCF7&lines=I+am+an+AI+engineer.;I+am+currently+learning+mobile+development+and+networking.;I+am+interested+in+cybersecurity.;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)](https://git.io/typing-svg)
 </div>
 
 **<h3 align="center">Skills</h3>**
