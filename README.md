@@ -112,6 +112,8 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 
 </div>
 
----
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim00-crt&theme=2077&hide_border=true&border_radius=100)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahim00-crt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
