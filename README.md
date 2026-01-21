@@ -60,6 +60,8 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim00-crt&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibrahim00-crt&theme=2077&utcOffset=8)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim00-crt&theme=2077)
+  
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim00-crt&theme=dark&hide_border=true&border_radius=100)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahim00-crt)](https://git.io/streak-stats)
