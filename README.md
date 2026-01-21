@@ -113,7 +113,7 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahim00-crt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahim00-crt&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
 
