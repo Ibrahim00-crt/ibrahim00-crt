@@ -28,28 +28,49 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 </h3>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&color=36BCF7&lines=I+am+an+AI+engineer.;I+am+currently+learning+mobile+development+and+networking.;I+am+interested+in+cybersecurity.;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&color=36BCF7&lines=I+am+an+AI+engineer.; I+am+currently+learning+mobile+development+and+networking. ; I+am+interested+in+cybersecurity. ;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)]
+(https://git.io/typing-svg)
+
 </div>
+
 
 **<h3 align="center">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+  
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB">
+   
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="28" alt="Flask">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="28" alt="Django">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="Flutter">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="28" alt="Keras">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="28" alt="OpenCV">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VSCode">
+  
 </div>
 
 <div align="center">
@@ -62,6 +83,7 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 </div>
 
 <div align="center">
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim00-crt&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim00-crt&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim00-crt&theme=2077)
