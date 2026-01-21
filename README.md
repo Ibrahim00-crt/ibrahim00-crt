@@ -28,9 +28,8 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 </h3>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&color=36BCF7&lines=I+am+an+AI+engineer.; I+am+currently+learning+mobile+development+and+networking. ; I+am+interested+in+cybersecurity. ;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)]
-(https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+AI+engineer.;I+am+currently+learning+mobile+development+and+networking.;I+am+interested+in+cybersecurity.;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)](https://git.io/typing-svg)
 
 </div>
 
