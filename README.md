@@ -15,7 +15,7 @@
   <a href="https://github.com/Ibrahim00-crt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-khalil-ba935b268/" target="_blank">
+  <a href="https://linkedin.com/in/ibrahim-khalil-ba935b268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
   </a>
   <a href="mailto:keciribrahim@gmail.com" target="_blank">
@@ -28,40 +28,90 @@ My work focuses on developing intelligent and secure IoT systems using AI, machi
 </h3>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+AI+engineer.;I+am+currently+learning+mobile+development+and+networking.;I+am+interested+in+cybersecurity.;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)](https://git.io/typing-svg)
-
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+AI+engineer.;I+am+currently+learning+mobile+development+and+networking.;I+am+interested+in+cybersecurity.;I+work+with+artificial+intelligence+and+machine+learning.;I+am+passionate+about+technology+and+innovation.;I+am+learning+how+to+build+secure+and+intelligent+systems.)](https://git.io/typing-svg)
+  
 </div>
 
+---
 
-**<h3 align="center">Skills</h3>**
-
+## **<h3 align="center">Skills</h3>**
 
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=mongodb,mysql,python,java,html,css,django,flutter,tensorflow,Git,vscodenext&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-  
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=mongodb,mysql,python,java,html,css,fastapi,flask,django,flutter,tensorflow,Git,vscode&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
+---
 
 <div align="center">
-  <a href="https://stats.hyo.dev/stats/Ibrahim00-crt">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Ibrahim00-crt" width="600" />
-  </a>
-  <a href="https://stats.hyo.dev/stats/Ibrahim00-crt">
-    <img src="https://stats.hyo.dev/api/github-trophies?login=Ibrahim00-crt" width="600" />
-  </a>
+
+<table cellspacing="0" cellpadding="0" border="0">
+  <!-- Row 1: Full width -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        width="1000"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim00-crt&theme=2077"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 2: 50% + 50% -->
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim00-crt&theme=2077"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim00-crt&theme=2077"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 3: 50% + 50% -->
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim00-crt&theme=2077"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibrahim00-crt&theme=2077&utcOffset=1"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 4: Full width -->
+   <tr>
+    <td colspan="2" align="center">
+      <img
+        width="1000"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Ibrahim00-crt&theme=2077&hide_border=true"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 5: Full width -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        width="1000"
+        src="https://stats.hyo.dev/api/github-stats-advanced?login=Ibrahim00-crt"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div align="center">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim00-crt&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim00-crt&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim00-crt&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibrahim00-crt&theme=2077&utcOffset=8)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim00-crt&theme=2077)
-  
-</div>
+---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahim00-crt)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim00-crt&theme=2077&hide_border=true&border_radius=100)](https://git.io/streak-stats)
